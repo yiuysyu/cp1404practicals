@@ -1,4 +1,8 @@
-"""CP1404/CP5632 Practical - Car class example."""
+"""
+CP1404/CP5632 Practical - Car class example.
+Estimate: 30 minutes
+Actual:   25 minutes
+"""
 
 
 class Car:
